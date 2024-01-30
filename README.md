@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **KelsiP/KelsiP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### ✨ I am Kelsi Patel, a Computer Science student at Toronto Metropolitan University🎒 ✨
 
-<br><br>
 
-**Feel free to reach out to me:** <br>
+##  I am Kelsi Patel, a Computer Science student at Toronto Metropolitan University🎒 
+
+<br><be>
+### Feel free to reach out to me: <br><br>
 📫 [kelsi.patel@torontomu.ca](mailto:kelsi.patel@torontomu.ca) <br>
-👩 [https://linkedin.com/in/kelsi-patel] <br>
+👩  https://linkedin.com/in/kelsi-patel <br>
