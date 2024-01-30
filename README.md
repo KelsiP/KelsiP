@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there 👋
+:sparkles: I am Kelsi Patel , a Computer Science student at Toronto Metropolitan University :school_satchel:!:sparkles:
+
+Feel free to reach out to me:
+:mailbox: [kelsi.patel@torontomu.ca](mailto:kelsi.patel@torontomu.ca)
