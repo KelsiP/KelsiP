@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 ### ✨ I am Kelsi Patel, a Computer Science student at Toronto Metropolitan University🎒 ✨
 
-**Feel free to reach out to me:**
-📫 [kelsi.patel@torontomu.ca](mailto:kelsi.patel@torontomu.ca)
-👩 [https://linkedin.com/in/kelsi-patel] (https://linkedin.com/in/kelsi-patel)
+<br><br>
+
+**Feel free to reach out to me:** <br>
+📫 [kelsi.patel@torontomu.ca](mailto:kelsi.patel@torontomu.ca) <br>
+👩 [https://linkedin.com/in/kelsi-patel] (https://linkedin.com/in/kelsi-patel) <br>
