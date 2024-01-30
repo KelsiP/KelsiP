@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 **Feel free to reach out to me:** <br>
 📫 [kelsi.patel@torontomu.ca](mailto:kelsi.patel@torontomu.ca) <br>
-👩 [https://linkedin.com/in/kelsi-patel] (https://linkedin.com/in/kelsi-patel) <br>
+👩 [https://linkedin.com/in/kelsi-patel] <br>
