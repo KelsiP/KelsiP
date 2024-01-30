@@ -15,14 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##  I am Kelsi Patel, a Computer Science student at Toronto Metropolitan University🎒 
-<br><br>
+##  I am Kelsi Patel, a 3rd year Computer Science student at Toronto Metropolitan University🎒 
+<br>
 **🤝Interests:** <br>
   -  💻 Software Development <br>
   -  🛡️ Cybersecurity <br>
   -  📈 Data Science <br>
-
-<br><br>
+<br>
+**💼 Previous Experience: ** <br>
+  -  Security Analyst Intern @ RCMP <br>
+  -  Web Development Intern @ Empower Health <br>
+  -  Machine Learning Fellow @ AI4Good Lab <br>
+<br>
 **Feel free to reach out to me 😃:** <br>
 📫 [kelsi.patel@torontomu.ca](mailto:kelsi.patel@torontomu.ca) <br>
 👩  https://linkedin.com/in/kelsi-patel <br>
