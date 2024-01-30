@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## 👩‍💻 About Me
 
-I'm Kelsi Patel, a 3rd-year Computer Science student at Toronto Metropolitan University.
+**I'm Kelsi Patel**, a **3rd-year Computer Science** student at **Toronto Metropolitan University** 🎒
 
 ### 🤝 Interests
 
@@ -32,7 +32,7 @@ I'm Kelsi Patel, a 3rd-year Computer Science student at Toronto Metropolitan Uni
 - Web Development Intern @ Empower Health
 - Machine Learning Fellow @ AI4Good Lab
 
-### 📫 Feel free to connect with me:
+### 📫 Feel free to connect with me 😊
 
 - 📧 [kelsi.patel@torontomu.ca](mailto:kelsi.patel@torontomu.ca)
 - 👩 https://linkedin.com/in/kelsi-patel
