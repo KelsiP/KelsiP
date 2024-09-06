@@ -28,9 +28,10 @@ I'm **Kelsi Patel**, a **3rd-year Computer Science** student at **Toronto Metrop
 
 ### 💼 Previous Experience
 
-- Security Analyst Intern @ RCMP
-- Web Development Intern @ Empower Health
-- Machine Learning Fellow @ AI4Good Lab
+- Security Engineer Intern @ MDA Space :rocket:
+- Security Analyst Intern @ RCMP :police_car:
+- Web Development Intern @ Empower Health :hospital:
+- Machine Learning Fellow @ AI4Good Lab :robot:
 
 ### 📫 Feel free to connect with me 😊
 
