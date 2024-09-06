@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 
 ## 👩‍💻 About Me
 
-I'm **Kelsi Patel**, a **3rd-year Computer Science** student at **Toronto Metropolitan University** 🎒
+I'm **Kelsi Patel**, a **4th-year Computer Science** student at **Toronto Metropolitan University** 🎒
 
 ### 🤝 Interests
 
+- 🛡️ Security
 - 💻 Software Development
-- 🛡️ Cybersecurity
 - 📈 Data Science
 
 ### 💼 Previous Experience
