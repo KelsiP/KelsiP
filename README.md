@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## 👩‍💻 About Me
 
-I'm **Kelsi Patel**, a **4th-year Computer Science** student at **Toronto Metropolitan University** 🎒
+I'm **Kelsi Patel**, and I studied **Computer Science** at **Toronto Metropolitan University** 🎒
 
 ### 🤝 Interests
 
@@ -28,6 +28,7 @@ I'm **Kelsi Patel**, a **4th-year Computer Science** student at **Toronto Metrop
 
 ### 💼 Previous Experience
 
+- Application Security Engineer Intern @ theScore 🎰
 - Security Engineer Intern @ MDA Space :rocket:
 - Security Analyst Intern @ RCMP :police_car:
 - Web Development Intern @ Empower Health :hospital:
@@ -35,5 +36,5 @@ I'm **Kelsi Patel**, a **4th-year Computer Science** student at **Toronto Metrop
 
 ### 📫 Feel free to connect with me 😊
 
-- 📧 [kelsi.patel@torontomu.ca](mailto:kelsi.patel@torontomu.ca)
+- 📧 [kelsipatel17@gmail.com](mailto:kelsipatel17@gmail.com)
 - 👩 https://linkedin.com/in/kelsi-patel
