@@ -27,11 +27,11 @@ I'm **Kelsi Patel**, and I studied **Computer Science** at **Toronto Metropolita
 - 📈 Data Science
 
 ### 💼 Previous Experience
-
+- Security Engineer Intern @ Wayfair 🛋️
+- Cybersecurity Consultant Intern @ Arup 🔨
 - Application Security Engineer Intern @ theScore 🎰
 - Security Engineer Intern @ MDA Space :rocket:
 - Security Analyst Intern @ RCMP :police_car:
-- Web Development Intern @ Empower Health :hospital:
 - Machine Learning Fellow @ AI4Good Lab :robot:
 
 ### 📫 Feel free to connect with me 😊
